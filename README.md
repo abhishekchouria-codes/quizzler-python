@@ -9,11 +9,11 @@ It fetches real‑time trivia questions from an API, provides a user‑friendly 
 
 ### 1. Project Structure
 quizzler-python/
-   - main.py           # Entry point to launch the app
-   - quiz_brain.py     # Handles quiz logic, question flow, scoring
-   - question_model.py # Defines Question class (text + answer)
-   - ui.py             # Tkinter GUI interface (buttons, labels, score display)
-   - requirements.txt  # Dependencies for easy setup
+   - main.py              # Entry point to launch the app
+   - quiz_brain.py        # Handles quiz logic, question flow, scoring
+   - question_model.py    # Defines Question class (text + answer)
+   - ui.py                # Tkinter GUI interface (buttons, labels, score display)
+   - requirements.txt     # Dependencies for easy setup
 
 ---
 
@@ -24,15 +24,15 @@ quizzler-python/
    
 2. Navigate into the project folder
 bash -
-cd quizzler-python
+  cd quizzler-python
 
 3. Install dependencies
 bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 4. Run the application
 bash
-python main.py
+  python main.py
 
 ### 3. Technologies Used: 
 - Python 3
