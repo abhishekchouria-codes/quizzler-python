@@ -1,13 +1,13 @@
 # python-quiz-app
 markdown
-# 🧠 Quizzler Python
+# Quizzler Python
 
 An interactive quiz application built with **Python** and **Tkinter**.  
 It fetches real‑time trivia questions from an API, provides a user‑friendly interface, and tracks your score as you play.
 
 ---
 
-## 📂 Project Overview
+## Project Overview
 
 ### 1. Project Structure
 quizzler-python/
