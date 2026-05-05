@@ -11,12 +11,9 @@ It fetches real‑time trivia questions from an API, provides a user‑friendly 
 
 ### 1. Project Structure
 quizzler-python/
-│
-├── main.py           # Entry point to launch the app
-│
-├── quiz_brain.py     # Handles quiz logic, question flow, scoring
-│
-├── question_model.py # Defines Question class (text + answer)
+   - main.py           # Entry point to launch the app
+   - quiz_brain.py     # Handles quiz logic, question flow, scoring
+   - question_model.py # Defines Question class (text + answer)
 │
 ├── ui.py             # Tkinter GUI interface (buttons, labels, score display)
 │
