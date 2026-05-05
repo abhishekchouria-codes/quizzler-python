@@ -1,4 +1,4 @@
-# python-quiz-app
+# quizzler-python
 
 An interactive quiz application built with **Python** and **Tkinter**.  
 It fetches real‑time trivia questions from an API, provides a user‑friendly interface, and tracks your score as you play.
