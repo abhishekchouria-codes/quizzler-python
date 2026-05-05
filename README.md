@@ -32,15 +32,24 @@ quizzler-python/
 
 ---
 
-### 3. Technologies Used
-- Python 3
-- Tkinter – GUI framework
-- Open Trivia API – fetches real‑time questions
-- Object‑Oriented Programming (OOP) principles
+### 3. Features
+- Fetches live quiz questions from the Open Trivia API  
+- Interactive True/False interface with instant feedback  
+- Score tracking throughout the session  
+- Clean and responsive Tkinter GUI  
+- Lightweight and beginner‑friendly project  
 
 ---
 
-### 4. Controls
-- Click True or False buttons to answer each question
-- Score updates automatically after each response
-- Continue until all questions are answered
+### 4. Technologies Used
+- Python 3  
+- Tkinter – GUI framework  
+- Open Trivia API – fetches real‑time questions  
+- Object‑Oriented Programming (OOP) principles  
+
+---
+
+### 5. Controls
+- Click **True** or **False** buttons to answer each question  
+- Score updates automatically after each response  
+- Continue until all questions are answered  
