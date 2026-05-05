@@ -18,27 +18,27 @@ quizzler-python/
 ---
 
 ### 2. How to Execute
-1. Clone the repository
-   ```bash
+1. Clone the repository  
    git clone https://github.com/abhishekchouria-codes/quizzler-python.git
-   
-2. Navigate into the project folder
-bash -
-  cd quizzler-python
 
-3. Install dependencies
-bash
-  pip install -r requirements.txt
+2. Navigate into the project folder  
+   cd quizzler-python
 
-4. Run the application
-bash
-  python main.py
+3. Install dependencies  
+   pip install -r requirements.txt
 
-### 3. Technologies Used: 
+4. Run the application  
+   python main.py
+
+---
+
+### 3. Technologies Used
 - Python 3
 - Tkinter – GUI framework
 - Open Trivia API – fetches real‑time questions
 - Object‑Oriented Programming (OOP) principles
+
+---
 
 ### 4. Controls
 - Click True or False buttons to answer each question
